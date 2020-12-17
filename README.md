@@ -1,4 +1,3 @@
-# to-do
 <h1 align="center" style="margin-top: -4px !important;">Todo List Client</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
