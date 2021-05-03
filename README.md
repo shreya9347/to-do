@@ -10,7 +10,7 @@
 This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python Programming Language passing all the test cases as given in the .js file. Proof of all Test Cases passing is as shown below.
 
 <p align="center">
-  <img src="https://github.com/shreya9347/to-do/blob/main/NPM%20Test%20Completed%20Proof%20-%2016-12-2020.PNG">
+  <img src="https://raw.githubusercontent.com/shreya9347/to-do/main/NPM%20Test%20Completed%20Proof%20-%2016-12-2020.PNG">
 </p>
 <br>
 
